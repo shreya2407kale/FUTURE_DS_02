@@ -53,7 +53,7 @@ The dashboard answers key business questions:
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Overview](Screenshots/T2-1.PNG.png)
+![Dashboard Overview](Screenshots/T2-1.PNG)
 
 ---
 
